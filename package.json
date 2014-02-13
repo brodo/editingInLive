@@ -1,0 +1,31 @@
+{
+  "name": "EditingInAbletonLiveAssignment",
+  "version": "0.0.0",
+  "description": "Editing In Abletion Live - Assignment 2 of Introduction to Music Production",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "connect": "~2.12.0",
+    "gulp": "~3.5.2",
+    "stylus": "~0.42.2",
+    "coffee-script": "~1.7.1",
+    "gulp-coffee": "~1.4.1",
+    "gulp-stylus": "0.0.12",
+    "gulp-util": "~2.2.14"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brodo/editingInLive.git"
+  },
+  "author": "Julian Dax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brodo/editingInLive/issues"
+  },
+  "homepage": "https://github.com/brodo/editingInLive"
+}
